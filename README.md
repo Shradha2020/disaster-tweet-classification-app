@@ -10,13 +10,7 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h3 align="center">Disaster Tweet Classification App</h3>
-
-
-
+## Disaster Tweet Classification App
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -31,14 +25,12 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+     <li><a href="#demo">Demo</a></li>
+    <li><a href="#deployment-on-google-cloud-engine">Deployed on Google Cloud Engine</a></li>
+    <li><a href="#future-work">Future Work</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -50,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 
 
@@ -62,7 +54,6 @@
 * Keras
 * Google App Engine
 
-## Demo
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -86,24 +77,30 @@ To get a local copy up and running follow these simple example steps.
 4.  Open it in web browser localhost (http://127.0.0.1:5000/)
 
 
+## Demo
 
 <!-- USAGE EXAMPLES -->
 ## Example
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+## Deployment on Google Cloud Engine
+_Check out the deployed version on Google Cloud [link](http://tweet-classification-app.uc.r.appspot.com/)_
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
+ -->
+## Future Work
 
 <!-- CONTACT -->
 ## Contact
 
-[Shradha Shaw](mailto:shradha.silvia.shaw@gmail.com)   [![LinkedIn][linkedin-shield]][linkedin-url]
+[Shradha Shaw](mailto:shradha.silvia.shaw@gmail.com)
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [Project Link](https://github.com/Shradha2020/disaster-tweet-classification-app.git)
 
-
+## Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
