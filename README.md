@@ -82,7 +82,10 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Example
 
-
+![Screenshot](disaster.png)
+<br />
+<br />
+![Screenshot](non-disaster.png)
 ## Deployment on Google Cloud Engine
 _Check out the deployed version on Google Cloud [link](http://tweet-classification-app.uc.r.appspot.com/)_
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
