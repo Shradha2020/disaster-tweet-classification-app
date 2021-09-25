@@ -17,6 +17,7 @@
 
 
 
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -42,6 +43,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
 
 
 
@@ -71,7 +73,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Shradha2020/disaster-tweet-classification-app.git
    ```
 2. Install the requirements
    ```sh
@@ -86,7 +88,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Example
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -97,9 +99,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Shradha Shaw](https://www.linkedin.com/in/shradha-shaw-64573685/) Email [mailto:shradha.silvia.shaw@gmail.com]
+[Shradha Shaw](mailto:shradha.silvia.shaw@gmail.com)   [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+[Project Link](https://github.com/Shradha2020/disaster-tweet-classification-app.git)
 
 
 
